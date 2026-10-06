@@ -1,0 +1,6 @@
+.vs/
+out/
+Lab02_CMake/
+*.exe
+*.dll
+*.user
